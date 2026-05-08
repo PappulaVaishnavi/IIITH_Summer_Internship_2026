@@ -1,0 +1,10 @@
+path: C:/summer_internship/dataset_project
+
+train: images/train
+val: images/val
+
+nc: 2
+
+names:
+  0: light_vehicle
+  1: heavy_vehicle

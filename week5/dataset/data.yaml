@@ -1,0 +1,7 @@
+train: C:/summer_internship/dataset/train/images
+val: C:/summer_internship/dataset/val/images
+
+nc: 1
+
+names:
+  0: car
